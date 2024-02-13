@@ -1,5 +1,7 @@
 # The AI Model Competetion Script
 Be the judge of your AI Models, Ask them a question and rate their answers.
+      
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=saI-iWK40_s)
 
 # Origin story
 This script was originally created on video during the tenth episode of the first season of the devlab series. [See the video](https://www.youtube.com/watch?v=EX8VcKmCI9s) or [read the article](https://medium.com/@al-saleh/the-devlab-series-season-01-episode-10-a621b80d6d97)
