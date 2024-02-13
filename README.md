@@ -1,5 +1,5 @@
 # The AI Model Competetion Script
-Be the judge of your AI Models, Ask them a question and rate their answers.+
+Be the judge of your AI Models, Ask them a question and rate their answers.
 
 Watch the video: https://www.youtube.com/watch?v=saI-iWK40_s
 
